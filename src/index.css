@@ -53,6 +53,14 @@ All colors MUST be HSL.
     --sidebar-border: 220 13% 91%;
 
     --sidebar-ring: 217.2 91.2% 59.8%;
+
+    /* ECB Brand Colors */
+    --ecb-blue: 210 100% 14%;
+    --ecb-light-blue: 210 60% 85%;
+    --ecb-gold: 45 90% 50%;
+    --ecb-success: 120 70% 40%;
+    --ecb-warning: 30 90% 50%;
+    --ecb-danger: 0 70% 50%;
   }
 
   .dark {
@@ -91,6 +99,14 @@ All colors MUST be HSL.
     --sidebar-accent-foreground: 240 4.8% 95.9%;
     --sidebar-border: 240 3.7% 15.9%;
     --sidebar-ring: 217.2 91.2% 59.8%;
+
+    /* ECB Brand Colors - Dark Mode */
+    --ecb-blue: 210 80% 65%;
+    --ecb-light-blue: 210 40% 25%;
+    --ecb-gold: 45 80% 60%;
+    --ecb-success: 120 50% 50%;
+    --ecb-warning: 30 80% 60%;
+    --ecb-danger: 0 60% 60%;
   }
 }
 
